@@ -8,7 +8,7 @@
 <p>A file .gitignore was created to tell Git to <b>ignore</b> the ‘_site’ directory that Jekyll automatically generates each time you commit.</p>
 <p>A file _config.yml was created to tell Jekyll some <b>basics</b> about your project</p>
 <p>A directory _layouts was created, and a file inside it called default.html.
- deafult.html was made so that you won't have to <em>*repeat*</em> that markup on every single page we create, making maintenance of your site much easier.</p>
+ deafult.html was made so that you won't have to <b>repeat</b> that markup on every single page we create, making maintenance of your site much easier.</p>
 </div>
 
 
