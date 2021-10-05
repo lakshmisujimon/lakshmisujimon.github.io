@@ -9,6 +9,7 @@
 <p>A file _config.yml was created to tell Jekyll some <b>basics</b> about your project</p>
 <p>A directory _layouts was created, and a file inside it called default.html.
  deafult.html was made so that you won't have to <b>repeat</b> that markup on every single page we create, making maintenance of your site much easier.</p>
+<li><a href="https://lakshmisujimon.github.io/"> Click here to go to the Web Page. </a></li>
 </div>
 
 
